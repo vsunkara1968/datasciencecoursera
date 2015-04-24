@@ -114,3 +114,19 @@ ls
 git commit
 git commit
 exit
+ls
+cd dc
+ls
+edit HelloWorld.md
+edit
+ls
+git pull origin
+ls
+git push orgin HelloWorld.md
+git push orgin
+git config --list
+git commit
+git commit HelloWorld.md
+quit
+eixt
+exit
